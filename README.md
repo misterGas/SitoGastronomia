@@ -9,4 +9,4 @@ Il sito è stato sviluppato nel 2021 al termine del percorso di istruzione super
 Possibili miglioramenti inoltre alla parte frontend del sito.
 
 # Link al sito web
-https://gastronomiagastaldi.altervista.org/
+https://gastronomiagastaldi.altervista.org
